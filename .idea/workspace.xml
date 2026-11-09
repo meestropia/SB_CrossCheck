@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ee35844-a6cf-4c71-8919-4163aa96c3f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SB_CrossCheck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SBCrossCheckAnalysisfromHypackXLS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browse_file.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000137175682" />
+      <entry key="S10" value="1.0001171227470633" />
+      <entry key="S30" value="1.0508152528560666" />
+      <entry key="S60" value="1.3073038613042838" />
+      <entry key="M2" value="2.375090546229154" />
+      <entry key="M5" value="8.201817810882703" />
+      <entry key="M10" value="17.305728607794826" />
+      <entry key="M15" value="24.784034935803618" />
+      <entry key="M30" value="40.83124151850548" />
+      <entry key="H1" value="56.73032916404162" />
+      <entry key="H2" value="68.4687347917716" />
+      <entry key="H4" value="75.68240129522238" />
+      <entry key="D1" value="82.52936002783228" />
+      <entry key="W1" value="83.78773327369419" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.524923869507232E-164" />
+      <entry key="S5" value="6.187918787971435E-66" />
+      <entry key="S10" value="2.4875527708917924E-33" />
+      <entry key="S30" value="1.3549525944647992E-11" />
+      <entry key="S60" value="3.680968071669201E-6" />
+      <entry key="M2" value="0.0019185850047608044" />
+      <entry key="M5" value="0.08197900642897389" />
+      <entry key="M10" value="0.295962747269769" />
+      <entry key="M15" value="0.4800705718343663" />
+      <entry key="M30" value="0.8730481106376861" />
+      <entry key="H1" value="1.2744556002787122" />
+      <entry key="H2" value="1.5811928643486204" />
+      <entry key="H4" value="1.7739496480172365" />
+      <entry key="D1" value="1.9597458966820795" />
+      <entry key="W1" value="1.9941824361823353" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753554615276419" />
+      <entry key="S2" value="0.9937810933225548" />
+      <entry key="S5" value="0.9975077945771171" />
+      <entry key="S10" value="0.9988700734904373" />
+      <entry key="S30" value="1.0503028143916198" />
+      <entry key="S60" value="1.3055703861502461" />
+      <entry key="M2" value="2.3719102146361046" />
+      <entry key="M5" value="8.274078959363658" />
+      <entry key="M10" value="17.59049420826255" />
+      <entry key="M15" value="25.25362587104025" />
+      <entry key="M30" value="41.69653611054872" />
+      <entry key="H1" value="57.99991712395453" />
+      <entry key="H2" value="70.04716932558081" />
+      <entry key="H4" value="77.45487770440985" />
+      <entry key="D1" value="84.48884600972023" />
+      <entry key="W1" value="85.78187820842089" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LrXROWck9O8NGP91ivnfXUYVG3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.SBCrossCheckAnalysisfromHypackXLS.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP-27/PycharmProjects/SB_CrossCheck",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP-27\PycharmProjects\SB_CrossCheck" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ee35844-a6cf-4c71-8919-4163aa96c3f2" name="Changes" comment="" />
+      <created>1794213151489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794213151489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
